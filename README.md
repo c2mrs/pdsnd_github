@@ -6,6 +6,7 @@ Git Project
 
 ### Description
 Demonstrating git knowlegde for udacity course
+1st change
 
 ### Files used
 README.md
